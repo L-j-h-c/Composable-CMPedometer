@@ -1,2 +1,2 @@
-# iOS-template-repos
-프로젝트 시작을 쉽게, 템플릿 repository
+# Composable CMPedometer
+Composable CMPedometer is library that bridges the Composable Architecture and [CMPedometer](https://developer.apple.com/documentation/coremotion/cmpedometer).
